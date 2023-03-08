@@ -2,7 +2,7 @@ grimalkin-bot is a tarot reading familiar. he is a black cat who loves catching 
 
 UPDATES AND VERSION GUIDES:
 @grimalkin-bot's first release - 0.0.0
-grimalkin bot is a tarot reading bot that pulls one tarot card,
+grimalkin-bot is a tarot reading bot that pulls one tarot card,
 finds its given keyword description, and gives you an embedded message
 with your reading's information on it. currently, the embed feature
 still needs a few tweaks for visual appeal, but funcitonally it is
