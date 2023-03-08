@@ -1,17 +1,16 @@
-# grimalkin-bot
-tarot bot.
+grimalkin-bot is a tarot reading familiar. he is a black cat who loves catching spiders.
 
-@grimalkin.command()
-async def ping(ctx):
-    embed = discord.Embed(colour=discord.Colour.green(), description="this is the description", title="this is the title")
-    
-    embed.set_footer(text="this is the footer")
-    embed.set_author(name=ctx.message.author, icon_url="https://tenor.com/bpfoU.gif")
-    embed.set_thumbnail(url="https://tenor.com/bpfoU.gif")
-    embed.set_image(url="https://tenor.com/bpfoU.gif")
+UPDATES AND VERSION GUIDES:
+@grimalkin-bot's first release - 0.0.0
+grimalkin bot is a tarot reading bot that pulls one tarot card,
+finds its given keyword description, and giving you an embedded message
+with your reading's information on it. currently, the embed feature
+still needs a few tweaks for visual appeal, but funcitonally it is
+working.
 
-    embed.add_field(name="field 1 inline=f", value="https://tenor.com/bpfoU.gif", inline=False)
-    embed.add_field(name="field 2 inline=t", value="https://tenor.com/bpfoU.gif", inline=True)
-    embed.insert_field_at(1, name="embed.insert_field_at(1,...)", value="https://tenor.com/bpfoU.gif")
+future plans:
+- have different reading layouts
+- use reaction commands to give further details on your reading
+- use given card pngs for your random cards in the embed
 
-    await ctx.send(embed=embed)
+that's all for the first version release of grimalkin-bot!
