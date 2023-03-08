@@ -17,6 +17,7 @@ async def change_status():
     await grimalkin.change_presence(activity=discord.Game(next(bot_status)))
 
 #commands
+##single tarot reading
 @grimalkin.command(aliases=["reading", "tarotreading"])
 async def tarot(ctx, *, question):
     #open up our card file and our description file in read mode. then assign to new variables as split lines.
@@ -34,6 +35,8 @@ async def tarot(ctx, *, question):
         reading=str(line)
     #send message with the full reading.      
     await ctx.send(reading)
+
+    ##
 
 #start-up loads
 @grimalkin.event 
