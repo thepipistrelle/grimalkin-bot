@@ -1,156 +1,78 @@
-the fool :  seeking, new, journey, adventure, beginning, caution, planning, unique
 the fool (reversed) : reckless, gullible, haste, immobility, thoughtlessness, impulsive, naive, stuck
-the magician : invention, goals, skill, alchemy, action, creativity, innovation, mainifestation, balance, appearance
 the magician (reversed) : illusion, deception, trickery, con artist, shallow, imbalance, insincerity, insecurity
-the high priestess : arcane knowledge, intermediary, advice, counsel, mediation, reflection
 the high priestess (reversed) : secrets, magic, the unknown, metaphysics, psychic abilities, the occult
-the empress : birth, fertility, acceptance, nurturing, mother, nature, sensuality, cycles, reciprocity
-7the empress (reversed) : judgemental, cold, unyielding, unsupportive, death, man-made, stasis, rejection, selfishness
-the emperor : boundaries, father figure, power, stable, management, diplomacy, establishment, structure
+the empress (reversed) : judgemental, cold, unyielding, unsupportive, death, man-made, stasis, rejection, selfishness
 the emperor (reversed) : authoritarian, oppressive, restrictive, immovable, controlling, bureaucratic, officious
-the hierophant : enlightenment, education, community, tradition, order, mentor, clarification
 the hierophant (reversed) : dogma, oligarchym authoritarian, regulations, restrictions, rebellion, confusion, chaos
-the lovers : love, collaboration, devotion, alliance, choice, decisions, passion, joy
 the lovers (reversed) : indecision, inequality, disloyalty, animosity, disagreement, procrastination, indifference
-the chariot : odyssey, triumph, determination, balance, skill, control, victory
 the chariot (reversed) : stagnation, failure, defeat, anxiety, vulnerable, ineffective, chaos
-strength : persistence, patience, resilience, diplomacy, intellect, composure, discretion
 strength (reversed) : impatience, aggressive, fragility, instinct, insensitivity, apathy, laziness
-the hermit : silence, illumination, retreat, vision, seeking, solitude, advice, internal
 the hermit (reversed) : noise, distraction, socializing, diversion, entertainment, external, emptiness
-the wheel of fortune : cycles, expansion, success, movement, growth, gain, accountability, self-esteem, good fortune
 the wheel of fortune (reversed) : cycles, expansion, success, movement, growth, gain, accountability, self-esteem, good fortune
-justice : equity, equality, truth, ethics, legal matters, lawyers, contracts, business deals
 justice (reversed) : injustice, deception, rebellion, vigilante, oppression, immoral, inequality, inequity
-the hanged man : perspective, self-sacrifcies, vision, spiritual messages, enlightenment, contemplation, change  
 the hanged man (reversed) : scapegoat, confusion, stagnation, redundancy, unseeing, perplexed, stuck, frustration
-death : transformation, birth, new beginnings, creation, conception, entrance, peace 
 death (reversed) : stagnation, decay, conclusion, waning, exit, revolution, struggle
-temperance : synthesis, transformation, balance, moderation, catharsis, spiritual awareness, self-control
 temperance (reversed) : imbalance, excess, corruption, dissipation, indulgence, division, ignorance, hedonism
-the devil : illusory, freedom, pleasure, nonconformity, gratification, independence
 the devil (reversed) : self-centered, indulgence, obsessive, addiction, unproductive, captivity, oppression
-the tower : sudden awareness, identity shift, renewal, darkness before dawn
 the tower (reversed) : shock, challenges, unforseen events, disruption, accidents
-the star : free will, faith, networks, communing, success, hope, inpsiration, self-esteem
 the star (reversed) : vulnerability, fate, failure, pressure, imposter syndrome, isolation, shame, sorrow
-the moon : reflection, cycles, growth, perception, bravery, intuition, spirituality
 the moon (reversed) : delusion, erratic, deception, visionless, discouraged, mania, disruption
-the sun : joy, warmth, happiness, freedom, nature, childish, trust, play
 the sun (reversed) : sorrow, cold, restrictions, maturity, conservative, suspicion, work
-discretion : epiphany, resurrection, rebirth, discernment, reflection, perspective, ethics, wisdom
 discretion (reversed) : ignorance, oblibion, end, illusion, bewilderment, indecision, darkness, inexperience
-the world : success, objective, culmination, actualization, boundaries, achievement, investment
 the world (reversed) : failure, wasted efforts, stagnation, inexperience, neglect, subjective, unfulfilled
-ace of wands : beginning, spark, inspiration, energy, activity, vision, illumination
 ace of wands (reversed) : discouragement, failure, apathy, fear, indifference, oblivion, darkness
-two of wands : investigation, vision, achievement, objective, expansion, community
 two of wands (reversed) : ignore, failure, stagnation, withdrawal, contraction, vacant, unseeing
-three of wands : venture, collaboration, communication, clarity, foresight, success, equity
 three of wands (reversed) : solitary, unemployment, failure, silence, hindsight, inaccuracy, inequity
-four of wands : marriage, partnership, parties, celebration, stability, joy
 four of wands (reversed) : separation, sorrow, disappointment, divorce, instability, isolation
-five of wands : competition, rivalry, ego, grapple, conflict, fuss, grandstand, tension
 five of wands (reversed) : humble, share, self-esteem, accord, calm, gentle, modest
-six of wands : victory, recognition, group effort, rewards, freedom, encouraging
 six of wands (reversed) : defeat, invisibility, grandstanding, restriction, oppression, discouraging
-seven of wands : defense, standing ground protection, challenge, honor, pride, perseverance
 seven of wands (reversed) : victimization, cowardice, offense, ego, fraility, apathy, defenseless
-eight of wands : focus, travel, determination, cooperation, motion, return, outcome
 eight of wands (reversed) : backlash, scattered, hesitating, immobile, lethargy, stagnant, heedless
-nine of wands : reflection, assessment, preparedness, rest, convalescence, recuperation, acceptance
 nine of wands (reversed) : frenzy, distraction, movement, deteriorate, weaken, ignore, rejection
-ten of wands : effort, burden, challenge, pressure, preparation, perseverance, accountability
 ten of wands (reversed) : lethargy, avoidance, irresponsible, laziness, idle, careless, surrender
-page of wands : free spirit, enthusiasm, new journey, curious, active, creative, warm, patient
 page of wands (reversed) : impulsive, reckless, slow, lethargic, cold, cautious, stuck, short tempered
-knight of wands : adventure, wanderer, restless, romance, passion, determination, courageous, charisma
 knight of wands (reversed) : abandonment, clumsy, unromantic, cold, clinging, cowardly, awkward
-queen of wands : energetic, powerful, presence, independent, warm, athletic, self-confident, wisdom
 queen of wands (reversed) : self-conscious, shy, timid, frivolous, ill tempered, lethargic, slow, frail
-king of wands : confidence, leadership, establishment, patient, kind, professional, success, sage, warm
 king of wands (reversed) : fear, nervousness, fraility, incompetence, failure, impatience, short tempered, selfish
-ace of cups : beginning, opportunity, abundance, creativity, compassion, enthusiasm
 ace of cups (reversed) : overwrought, resistance, pessimism, uncontrolled, unproductive, unfeeling
-two of cups : partnership, sharing, collaboration, happiness, commitment, settlement, enterprise, optimism
 two of cups (reversed) : singular, sorrow, strife, gloom, difference, deny, diagreement
-three of cups : socializing, friendships, celebration, vacation, relationships, festivity, laughter
 three of cups (reversed) : isolation, loneliness, antisocial, mournful, tears, workaholic, opposition, resolute
-four of cups : repetition, stagnation, boredom, apathy, redundancy, tedium, inertia
 four of cups (reversed) : discouraged, depressed, pessimist, submission, withdrawal, quit
-five of cups : disappointment, grief, overwhelmed, frustration, hopelessness, pessimism, sorrow
 five of cups (reversed) : hope, moving foreward, joy, optimis, ease, confidence, purpose
-six of cups : nostalgia, childhood, memories, innocence, reminiscence, youth, imagination
 six of cups (reversed) : regret, grief, loss, delusion, stuck, escape, bitterness, trauma
-seven of cups : decisions, discretion, evaluation, resolution, visions, dreams, preference
 seven of cups (reversed) : indecision, impulsivity, procrastination, incomplete, unseeing, unrealistic
-eight of cups : advancing, resolution, release, liberation, resolve, progress, release
 eight of cups (reversed) : retreat, clinging, uncertainty, fears, control, baggage, indecision, stagnation
-nine of cups : abundance, wishes, joy, prosperity, aspirations, affluence, delight, wealth, celebration
 nine of cups (reversed) : poverty, sadness, loneliness, indifference, loss, dissatisfaction, disapproval, neglect
-ten of cups : fulfillment, culmination, family, contentment, joy, festivity, legacy, accomplishments
 ten of cups (reversed) : longing, unfulfilled, loss, frustration, solitude, failure, mourning, impossible
-page of cups : intuitive, creativity, gentle, trusting, inspiration, good news, gifts, prosperity, play
 page of cups (reversed) : work, dogmatic, uninspired, suspicious, closed, frightened, hypersensitive, needy
-knight of cups : romance, passion, steady, good news, calm, peace, pacing
 knight of cups (reversed) : cold, distant, unaware, self-absorbed, disappointing news, impulsive
-queen of cups : mature, creativity, self-assuredness, fun, advice, freedom, psychic, independent
 queen of cups (reversed) : reckless, silence, dour, insecure, joyless, unseeing, needy, subservient
-king of cups : introspection, self-contained, advice, balance, diplomacy, patience, loyalty, academic
 king of cups (reversed) : arrogant, cold, manipulative, autocratic, tactless, brusque, impatient, lothario, control 
-ace of swords : decisions, thought, analysis, communication, beginning, perception
 ace of swords (reversed) : indefinite, unaware, inattentive, oblivious, stagnant, ambiguous
-two of swords : decision, choice, options, peace, accord, inertia, intellect
 two of swords (reversed) : indecision, impulsive, aggression, disagreement, egotism
-three of swords : survival, vulnerability, self-esteem, engaged, healing, pride, regenerate
 three of swords (reversed) : defeat, denial, dissociation, pain, deprssion, loss, heartache, grief
-four of swords : rest, recuperation, peace, healing, recovery, relaxation, dreams
 four of swords (reversed) : anxiety, overthinking, mania, panic, unease, stress, exhaustion
-five of swords : strength, community, equity, contribution, distribution, accord
 five of swords (reversed) : struggle, greed, argument, conflict, authority, hierarchy, withold
-six of swords : intent, movement, progress, plans, collaboration, action, journey, travel, relocation
 six of swords (reversed) : inactivity, restraint, indecision, anxiety, solitary, hide, inertia, avoidance
-seven of swords : strategy, opposition, disarm, intellect, proactive, rebellion
 seven of swords (reversed) : reactive, fear, victimization, force, conformity, oblivious
-eight of swords : confinement, helplessness, victimization, inaction, vulnerability, exposure
 eight of swords (reversed) : accountability, strength, nonconformity, freedom, responsibility, action
-nine of swords : nightmare, anxiety, obsessive, dread, shadows, illusion, phobia
 nine of swords (reversed) : reality, relaxation, peaceful, focused, light, balanced, courage
-ten of swords : completed, accomplished, resolved, finalized, nostalgia, interruption
 ten of swords (reversed) : end, betrayal, duplicity, incompletion, unfulfilled, pain, grief, loss
-page of swords : apprentice, youthful, development, curiosity, dynamic, aptitude
 page of swords (reversed) : awkward, supressed, inexperience, childish, impusive, careless
-knight of swords : valiant, ambitious, astute, thoughtful, crusade, speed, enthusiasm, emissary
 knight of swords (reversed) : ego, cowardice, rechklessness, dull, hase, aggression, impatience, interference
-queen of swords : mature, wise, melancholy, intelligent, clear, independent, witty, advocate
 queen of swords (reversed) : fear of aging, cynical, depressed, extistentialist, unbalanced, needy, sarcastic, selfish
-king of swords : ambition, mature, advisor, communication, control, dispassionate, organized, intelligent
 king of swords (reversed) : inactivity, immature, critic, silent, chaotic, angry, disorganized, dictator, sociopath
-ace of pentacles : unexpected support, a gift, solid finances, security, foundation, beginning a project
 ace of pentacles (reversed) : delayed payment, frustrated beginnings, fear of povery, insecurities, pessimism
-two of pentacles : cash flow, balance, spending, budget, merchant, fair exchange
 two of pentacles (reversed) : imbalance, restriction, stagnation, decrease, instability, inequity
-three of pentacles : attainment, commissions, completion, collaboration, focus, actualized, accomplished
 three of pentacles (reversed) : unfulfilled, imperfection, delays, partial, inadequate, unrealized, indefinite
-four of pentacles : resources, saving, frugality, budget, security, solid foundation, prepared
 four of pentacles (reversed) : lack, poverty, greed, hoarding, excess, stuck, fearful, nervous
-five of pentacles : inclusion, desire, community, involvement, courage, kinship, invitation
 five ofpentacles (reversed) : exclusion, segregation, lack, rejection, shunned, envy, yearning, obligation
-six of pentacles : equity, fair, reciprocity, tact, diplomacy, equality, exchange
 six of pentacles (reversed) : manipulative, careless, stagnation, self-involved, discriminatroy, unethical
-seven of pentacles : effort, energy, industry, growth, investment, compensation, reciprocity
 seven of pentacles (reversed) : neglect, laziness, decline, inactivity, stagnation, indifference, privilege
-eight of pentacles : skill, craft, materials, art, practice, technique, patience
 eight of pentacles (reversed) : incompetence, rashness, inability, destruction, termination, frustration
-nine of pentacles : material wealth, safety, securty, achievement, statu, prominence, lineage
 nine of pentacles (reversed) : restriction, obligations, insignificance, isolation, loneliness, subservience
-ten of pentacles : achievement, attainment, legacy, accumulate, family, ancestry, tradition
 ten of pentacles (reversed) : dissipate, squander, indulgence, forfeit, individual, reject, detach, trivialize
-page of pentacles : young person, learning, steady, grounded, practical, focused, creation 
 page of pentacles (reversed) : impulsive, destruction, hasty, inexperienced, immature, daydreaming, unfocused
-knight of pentacles : steady, structured, passive, slow, careful, cautious, organized, reliable, thoughtful
 knight of pentacles (reversed) : erratic, volatile, inconsistent, unreliable, aggressive, disruptive, chaotic
-queen of pentacles : grounded, mature, generous, nature lover, magical, serene, enigmatic, prepared
 queen of pentacles (reversed) : inexperienced, pretentious, shallow, melodramatic, unpredictable, exclusive
-king of pentacles : restrained, structured, scrutiny, details, methodical, business owner, control
 king of pentacles (reversed) : sloppiness, unrestrained, play, disorderly, employee, chaos, lawlessness

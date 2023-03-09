@@ -1,0 +1,78 @@
+the fool :  seeking, new, journey, adventure, beginning, caution, planning, unique
+the magician : invention, goals, skill, alchemy, action, creativity, innovation, mainifestation, balance, appearance
+the high priestess : arcane knowledge, intermediary, advice, counsel, mediation, reflection
+the empress : birth, fertility, acceptance, nurturing, mother, nature, sensuality, cycles, reciprocity
+the emperor : boundaries, father figure, power, stable, management, diplomacy, establishment, structure
+the hierophant : enlightenment, education, community, tradition, order, mentor, clarification
+the lovers : love, collaboration, devotion, alliance, choice, decisions, passion, joy
+the chariot : odyssey, triumph, determination, balance, skill, control, victory
+strength : persistence, patience, resilience, diplomacy, intellect, composure, discretion
+the hermit : silence, illumination, retreat, vision, seeking, solitude, advice, internal
+the wheel of fortune : cycles, expansion, success, movement, growth, gain, accountability, self-esteem, good fortune
+justice : equity, equality, truth, ethics, legal matters, lawyers, contracts, business deals
+the hanged man : perspective, self-sacrifcies, vision, spiritual messages, enlightenment, contemplation, change  
+death : transformation, birth, new beginnings, creation, conception, entrance, peace 
+temperance : synthesis, transformation, balance, moderation, catharsis, spiritual awareness, self-control
+the devil : illusory, freedom, pleasure, nonconformity, gratification, independence
+the tower : sudden awareness, identity shift, renewal, darkness before dawn
+the star : free will, faith, networks, communing, success, hope, inpsiration, self-esteem
+the moon : reflection, cycles, growth, perception, bravery, intuition, spirituality
+the sun : joy, warmth, happiness, freedom, nature, childish, trust, play
+discretion : epiphany, resurrection, rebirth, discernment, reflection, perspective, ethics, wisdom
+the world : success, objective, culmination, actualization, boundaries, achievement, investment
+ace of wands : beginning, spark, inspiration, energy, activity, vision, illumination
+two of wands : investigation, vision, achievement, objective, expansion, community
+three of wands : venture, collaboration, communication, clarity, foresight, success, equity
+four of wands : marriage, partnership, parties, celebration, stability, joy
+five of wands : competition, rivalry, ego, grapple, conflict, fuss, grandstand, tension
+six of wands : victory, recognition, group effort, rewards, freedom, encouraging
+seven of wands : defense, standing ground protection, challenge, honor, pride, perseverance
+eight of wands : focus, travel, determination, cooperation, motion, return, outcome
+nine of wands : reflection, assessment, preparedness, rest, convalescence, recuperation, acceptance
+ten of wands : effort, burden, challenge, pressure, preparation, perseverance, accountability
+page of wands : free spirit, enthusiasm, new journey, curious, active, creative, warm, patient
+knight of wands : adventure, wanderer, restless, romance, passion, determination, courageous, charisma
+queen of wands : energetic, powerful, presence, independent, warm, athletic, self-confident, wisdom
+king of wands : confidence, leadership, establishment, patient, kind, professional, success, sage, warm
+ace of cups : beginning, opportunity, abundance, creativity, compassion, enthusiasm
+two of cups : partnership, sharing, collaboration, happiness, commitment, settlement, enterprise, optimism
+three of cups : socializing, friendships, celebration, vacation, relationships, festivity, laughter
+four of cups : repetition, stagnation, boredom, apathy, redundancy, tedium, inertia
+five of cups : disappointment, grief, overwhelmed, frustration, hopelessness, pessimism, sorrow
+six of cups : nostalgia, childhood, memories, innocence, reminiscence, youth, imagination
+seven of cups : decisions, discretion, evaluation, resolution, visions, dreams, preference
+eight of cups : advancing, resolution, release, liberation, resolve, progress, release
+nine of cups : abundance, wishes, joy, prosperity, aspirations, affluence, delight, wealth, celebration
+ten of cups : fulfillment, culmination, family, contentment, joy, festivity, legacy, accomplishments
+page of cups : intuitive, creativity, gentle, trusting, inspiration, good news, gifts, prosperity, play
+knight of cups : romance, passion, steady, good news, calm, peace, pacing
+queen of cups : mature, creativity, self-assuredness, fun, advice, freedom, psychic, independent
+king of cups : introspection, self-contained, advice, balance, diplomacy, patience, loyalty, academic
+ace of swords : decisions, thought, analysis, communication, beginning, perception
+two of swords : decision, choice, options, peace, accord, inertia, intellect
+three of swords : survival, vulnerability, self-esteem, engaged, healing, pride, regenerate
+four of swords : rest, recuperation, peace, healing, recovery, relaxation, dreams
+five of swords : strength, community, equity, contribution, distribution, accord
+six of swords : intent, movement, progress, plans, collaboration, action, journey, travel, relocation
+seven of swords : strategy, opposition, disarm, intellect, proactive, rebellion
+eight of swords : confinement, helplessness, victimization, inaction, vulnerability, exposure
+nine of swords : nightmare, anxiety, obsessive, dread, shadows, illusion, phobia
+ten of swords : completed, accomplished, resolved, finalized, nostalgia, interruption
+page of swords : apprentice, youthful, development, curiosity, dynamic, aptitude
+knight of swords : valiant, ambitious, astute, thoughtful, crusade, speed, enthusiasm, emissary
+queen of swords : mature, wise, melancholy, intelligent, clear, independent, witty, advocate
+king of swords : ambition, mature, advisor, communication, control, dispassionate, organized, intelligent
+ace of pentacles : unexpected support, a gift, solid finances, security, foundation, beginning a project
+two of pentacles : cash flow, balance, spending, budget, merchant, fair exchange
+three of pentacles : attainment, commissions, completion, collaboration, focus, actualized, accomplished
+four of pentacles : resources, saving, frugality, budget, security, solid foundation, prepared
+five of pentacles : inclusion, desire, community, involvement, courage, kinship, invitation
+six of pentacles : equity, fair, reciprocity, tact, diplomacy, equality, exchange
+seven of pentacles : effort, energy, industry, growth, investment, compensation, reciprocity
+eight of pentacles : skill, craft, materials, art, practice, technique, patience
+nine of pentacles : material wealth, safety, securty, achievement, statu, prominence, lineage
+ten of pentacles : achievement, attainment, legacy, accumulate, family, ancestry, tradition
+page of pentacles : young person, learning, steady, grounded, practical, focused, creation 
+knight of pentacles : steady, structured, passive, slow, careful, cautious, organized, reliable, thoughtful
+queen of pentacles : grounded, mature, generous, nature lover, magical, serene, enigmatic, prepared
+king of pentacles : restrained, structured, scrutiny, details, methodical, business owner, control
